@@ -1,4 +1,4 @@
-# this project make wight graph 
+this project make wight graph 
 the graph incloud 
 node`s and edge`s
 each node have uniqe key that save for him the tag 
